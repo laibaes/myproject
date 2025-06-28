@@ -1,0 +1,13 @@
+img {
+    width: 200px;
+    border-style: dotted;
+    border-radius: 30px;
+
+}
+body {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(203, 137, 250);
+    color: rgb(255, 255, 255);
+    
+}
